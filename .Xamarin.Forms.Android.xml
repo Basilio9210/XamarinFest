@@ -43,6 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Forms.Core", "Xamar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Forms.Xaml", "Xamarin.Forms.Xaml\Xamarin.Forms.Xaml.csproj", "{9DB2F292-8034-4E06-89AD-98BBDA4306B9}"
 EndProject
+
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.Forms.Controls", "Xamarin.Forms.Controls\Xamarin.Forms.Controls.csproj", "{CB9C96CE-125C-4A68-B6A1-C3FF1FBF93E1}"
 	ProjectSection(ProjectDependencies) = postProject
 		{96D89208-4EB9-4451-BE73-8A9DF3D9D7B7} = {96D89208-4EB9-4451-BE73-8A9DF3D9D7B7}
